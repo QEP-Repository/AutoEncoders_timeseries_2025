@@ -2,9 +2,9 @@
 
 See the paper: 
 
->R.Rossi, A.Murari, T.Craciunescu, N.Rutigliano, I.Wyss, J.Vega, P.Gaudio and M.Gelfusa, JET contributors, EUROfusion Tokamak Exploitation Team  
->**"On the Use of Autoencoders to Study the Dynamics and the Causality Relations of Complex Systems with Applications to Nuclear Fusion"**  
->*Submitted to Computer Physics Communication*
+R.Rossi, A.Murari, T.Craciunescu, N.Rutigliano, I.Wyss, J.Vega, P.Gaudio and M.Gelfusa, JET contributors, EUROfusion Tokamak Exploitation Team  
+**"On the Use of Autoencoders to Study the Dynamics and the Causality Relations of Complex Systems with Applications to Nuclear Fusion"**  
+*Submitted to Computer Physics Communication*
 
 ## 🔹 PIC-AE — Physics-Informed Constrained Autoencoder
 
